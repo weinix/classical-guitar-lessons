@@ -1,0 +1,93 @@
+#+title: Classical Guitar Lesson Handout
+#+author: Wei Wang
+#+OPTIONS: toc:nil
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1400 reveal_height:1000
+#+OPTIONS: toc:nil
+#+OPTIONS: reveal_klipsify_src:t
+#+REVEAL_MIN_SCALE: 1.0
+#+REVEAL_MAX_SCALE: 1.0
+#+REVEAL_PLUGINS: (notes search zoom)
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_TRANS: cube
+#+REVEAL_THEME: black
+#+REVEAL_HLEVEL: 2
+#+REVEAL_POSTAMBLE: <p> Based upon work by yjwen. </p>
+
+
+* Lesson 1
+** Assessments
+[[./Handouts.org_20240214_221205.png]]
+
+** How to sit and hold your guitar
+*** How to sit
+- Sit on the front half of a chair, use a footstool for left foot
+- Be comfortable and relax
+- Four points of contact of the body
+[[./Handouts.org_20240214_210131.png]]
+*** Left hand
+- Your elbow and left arm should never be allowed to be rigid or stiff
+- Never bent your wrist too much!
+- The thumb of you LH has to be free to move
+- The fingers must always be placed close to the frets.
+*** How to look at your left hand
+- Learn to trust your left hand in regards to which string you are on.
+- Do not look at the entire fretboard and your left hand
+[[./Handouts.org_20240214_214427.png]]
+*** Position of the LH finger tips
+- Try to "stand" on the fretboard
+
+*** Right hand
+- Nail shape, take care your nails (We will talk about this more in the future).
+  Start to keep 2-3 mm of nails on your right hand fingers
+- Straight wrist, in-line with your forearm
+- Relaxed arch
+- Use your hand in the way its designed, always grab naturally
+- Guitar position need to be correct to support correct RH
+
+
+** The Complete fretboard
+[[./Handouts.org_20240214_213412.png]]
+
+** Music reading tips
+*** The more references you have, the quicker you can read
+- Four spaces: FACE
+[[./Handouts.org_20240214_220600.png]]
+- GBD 搞不懂
+[[./Handouts.org_20240214_220721.png]]
+
+** Exercises
+*** Chromatic scales at capo 0 position(if you are able to move higher, do it)
+- Use metronome!
+- Set tempo to 50, slowly increase to 60
+  - 1/4 notes
+  - 1/8 notes
+  - 1/16 notes
+*** C Scales
+[[./Handouts.org_20240214_221205.png]]
+*** Arpeggios (broken chords)
+[[./Handouts.org_20240214_222243.png]]
+
+
+** Music
+*** Andantino
+[[./Handouts.org_20240214_222412.png]]
+*** Waltz
+[[./Handouts.org_20240214_222357.png]]
+
+
+
+** How to practice
+- 25 minutes daily
+- Prepare for the practice so you are interruption free(go to bathroom, get a glass of water near you, etc)
+- Find proper chair and use your footstool
+- Practice with a metronome
+- Practice SLOW, never practice with a tempo that you can't not control. Ask yourself
+  - Am I playing any wrong notes at this tempo?
+  - Is my Rhythm 100% correct?
+  - How are my hand position?
+  - Am I moving my fingers smoothly and freely?
+  - Am I making beautiful sound?
+** What to practice
