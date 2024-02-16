@@ -30,14 +30,17 @@
 *** Left hand
 - Your elbow and left arm should never be allowed to be rigid or stiff
 - Never bent your wrist too much!
+- Hand is C shape
 - The thumb of you LH has to be free to move
-- The fingers must always be placed close to the frets.
+- Thumb should be across from the index and/or middle fingers
 *** How to look at your left hand
 - Learn to trust your left hand in regards to which string you are on.
 - Do not look at the entire fretboard and your left hand
 [[./Handouts.org_20240214_214427.png]]
 *** Position of the LH finger tips
 - Try to "stand" on the fretboard
+- Play with finger tips, not pad
+- close to fret
 
 *** Right hand
 - Nail shape, take care your nails (We will talk about this more in the future).
@@ -58,13 +61,31 @@
 - GBD 搞不懂
 [[./Handouts.org_20240214_220721.png]]
 
-** Exercises
+** Exercises (with a metronome)
+*** Left hand exercise (2 fingers)
+- do it at a fret with ease (fret 5)
+  - finger 1 and finger 2
+  - finger 2 and finger 3
+  - finger 3 and finger 4
+  - finger 1 and finger 3
+  - finger 2 and finger 4
+  - finger 1 and finger 4
+- watch for
+  - LH shape
+  - minimize finger movement(don't left fingers too high)
+*** Right hand exercise
+- Page 18,
+  - Arpeggios with the thumb and three fingers
+  - Pay attention to left finger
+   [[./Handouts.org_20240215_164708.png]]
+
+
 *** Chromatic scales at capo 0 position(if you are able to move higher, do it)
 - Use metronome!
 - Set tempo to 50, slowly increase to 60
   - 1/4 notes
-  - 1/8 notes
-  - 1/16 notes
+  - 1/8 notes (later)
+  - 1/16 notes(later)
 *** C Scales
 [[./Handouts.org_20240214_221205.png]]
 *** Arpeggios (broken chords)
