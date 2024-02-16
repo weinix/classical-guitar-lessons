@@ -4,7 +4,7 @@
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 #+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
 #+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
-#+OPTIONS: reveal_width:1400 reveal_height:1000
+#+OPTIONS: reveal_width:1920 reveal_height:1400
 #+OPTIONS: toc:nil
 #+OPTIONS: reveal_klipsify_src:t
 #+REVEAL_MIN_SCALE: 1.0
@@ -14,7 +14,6 @@
 #+REVEAL_TRANS: cube
 #+REVEAL_THEME: black
 #+REVEAL_HLEVEL: 2
-#+REVEAL_POSTAMBLE: <p> Based upon work by yjwen. </p>
 
 
 * Lesson 1
@@ -52,14 +51,17 @@
 
 
 ** The Complete fretboard
-[[./Handouts.org_20240214_213412.png]]
-
+[[./Handouts.org_20240215_201353.png]]
 ** Music reading tips
 *** The more references you have, the quicker you can read
 - Four spaces: FACE
-[[./Handouts.org_20240214_220600.png]]
 - GBD 搞不懂
-[[./Handouts.org_20240214_220721.png]]
+
+ [[./Handouts.org_20240215_205422.png]][[./Handouts.org_20240215_205437.png]]
+*** Rules
+- Learn to count as you read
+- Keep your eyes on the music an do not look back at your left hand (most of the time)
+
 
 ** Exercises (with a metronome)
 *** Left hand exercise (2 fingers)
@@ -76,7 +78,8 @@
 *** Right hand exercise
 - Page 18,
   - Arpeggios with the thumb and three fingers
-  - Pay attention to left finger
+  - Pay attention to left fingering
+
    [[./Handouts.org_20240215_164708.png]]
 
 
@@ -110,5 +113,5 @@
   - Is my Rhythm 100% correct?
   - How are my hand position?
   - Am I moving my fingers smoothly and freely?
-  - Am I making beautiful sound?
+  - Am I making full sound?
 ** What to practice
