@@ -4,7 +4,7 @@
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 #+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
 #+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
-#+OPTIONS: reveal_width:1720 reveal_height:1200
+#+OPTIONS: reveal_width:1600 reveal_height:1200
 #+OPTIONS: toc:nil
 #+OPTIONS: reveal_klipsify_src:t
 #+REVEAL_MIN_SCALE: 1.0
