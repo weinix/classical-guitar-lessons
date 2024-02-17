@@ -4,7 +4,7 @@
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 #+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
 #+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
-#+OPTIONS: reveal_width:1920 reveal_height:1400
+#+OPTIONS: reveal_width:1900 reveal_height:1240
 #+OPTIONS: toc:nil
 #+OPTIONS: reveal_klipsify_src:t
 #+REVEAL_MIN_SCALE: 1.0
@@ -49,21 +49,32 @@
 - Use your hand in the way its designed, always grab naturally
 - Guitar position need to be correct to support correct RH
 
+** Beginning to play
+*** Rest stroke
+  - Preparation
+  - Completion
 
-** The Complete fretboard
-[[./Handouts.org_20240215_201353.png]]
-** Music reading tips
-*** The more references you have, the quicker you can read
-- Four spaces: FACE
-- GBD 搞不懂
-
- [[./Handouts.org_20240215_205422.png]][[./Handouts.org_20240215_205437.png]]
-*** Rules
-- Learn to count as you read
-- Keep your eyes on the music an do not look back at your left hand (most of the time)
-
-
+   [[./Handouts.org_20240216_193718.png]] [[./Handouts.org_20240216_193736.png]]
+*** Free stroke
+- Play free stroke like grab a tennis ball
+[[./Handouts.org_20240216_194530.png]]
+*** Hand chart
+[[./Handouts.org_20240216_194054.png]]
 ** Exercises (with a metronome)
+*** Exercises on E string
+
+[[./Handouts.org_20240216_195854.png]]
+
+[[./Handouts.org_20240216_195907.png]]
+*** Exercises on The Upper three strings
+[[./Handouts.org_20240216_195508.png]]
+
+[[./Handouts.org_20240216_195649.png]]
+- Exercise 6
+[[./Handouts.org_20240216_195713.png]]
+
+*** Exercises on The Upper three strings (continued)
+[[./Handouts.org_20240216_195732.png]]
 *** Left hand exercise (2 fingers)
 - do it at a fret with ease (fret 5)
   - finger 1 and finger 2
@@ -95,7 +106,7 @@
 [[./Handouts.org_20240214_222243.png]]
 
 
-** Music
+** Music (if time allows)
 *** Andantino
 [[./Handouts.org_20240214_222412.png]]
 *** Waltz
@@ -114,4 +125,16 @@
   - How are my hand position?
   - Am I moving my fingers smoothly and freely?
   - Am I making full sound?
-** What to practice
+
+* Lesson 2
+** The Complete fretboard(skip for first lesson)
+[[./Handouts.org_20240215_201353.png]]
+** Music reading tips
+*** The more references you have, the quicker you can read
+- Four spaces: FACE
+- GBD 搞不懂
+
+ [[./Handouts.org_20240215_205422.png]][[./Handouts.org_20240215_205437.png]]
+*** Rules
+- Learn to count as you read
+- Keep your eyes on the music an do not look back at your left hand (most of the time)
