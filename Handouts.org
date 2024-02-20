@@ -128,14 +128,11 @@
   - Am I making full sound?
 
 * Lesson 2
-** The Complete fretboard(skip for first lesson)
-[[./Handouts.org_20240215_201353.png]]
-** Music reading tips
-*** The more references you have, the quicker you can read
-- Four spaces: FACE
-- GBD 搞不懂
-
- [[./Handouts.org_20240215_205422.png]][[./Handouts.org_20240215_205437.png]]
-*** Rules
-- Learn to count as you read
-- Keep your eyes on the music an do not look back at your left hand (most of the time)
+** Warm up
+*** Chromatic scales
+*** Two fingers spider walk
+** Arpeggios with the thumb and two fingers (5min)
+[[./week1.org_20240217_223152.png]]
+** Music
+*** Spagnoletta (With modification)
+[[./Handouts.org_20240219_223830.png]]
