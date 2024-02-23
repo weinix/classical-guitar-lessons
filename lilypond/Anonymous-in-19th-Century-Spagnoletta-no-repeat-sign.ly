@@ -158,7 +158,7 @@ global = {
      e2 e4
      e4. d8 c4
      d2. 
-     d2 e8 d
+     d2 e8 d(
      c4. d8 c4
      b4. a8 gis4  %% 
      a2.

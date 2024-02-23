@@ -1,4 +1,4 @@
-#+title: Classical Guitar Group Practice Handout Lesson 1
+#+title: Lesson 1
 #+author: Wei Wang
 #+OPTIONS: toc:nil
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js

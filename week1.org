@@ -59,7 +59,6 @@
 #+RESULTS:
 [[file:w1-1.png]]
 
-
 *** Left 2 and 3 finger
 #+ATTR_REVEAL: :frag (roll-in)
 

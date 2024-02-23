@@ -1,0 +1,45 @@
+#+title: Lesson  2
+#+OPTIONS: toc:nil
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1520 reveal_height:720
+#+OPTIONS: toc:nil
+#+OPTIONS: reveal_klipsify_src:t
+
+#+REVEAL_MIN_SCALE: 0.2
+#+REVEAL_MAX_SCALE: 2.0
+#+REVEAL_PLUGINS: (notes search zoom)
+#+REVEAL_MARGIN: 0.01
+#+REVEAL_TRANS: cube
+#+REVEAL_THEME: white
+#+REVEAL_HLEVEL: 2
+
+* Warm up
+- Ladder climbing on string 4, 3, 2
+- Spider walk at fret 5 with two fingers
+- Spider walk at fret 5 with four fingers
+- Chromatic scales (maybe skip)
+* Arpeggios with the thumb and two fingers
+- Test Carcassi arpeggios 1-5, may leave it to future lesson if too too difficult
+[[./week1.org_20240217_223152.png]]
+* Noad exercise 12-13
+[[./Handouts.org_20240222_205247.png]]
+[[./Handouts.org_20240222_205303.png]]
+* Noad exercise 14-15
+[[./Handouts.org_20240222_205318.png]]
+[[./Handouts.org_20240222_205336.png]]
+* Sight reading on open strings
+- pg 17, exercise 5-13, take odd number, and leave even number to student at home
+- Set metronome to 120, use X% to control tempo
+- always practice with tempo that you can control:
+* C Scales
+[[./Handouts.org_20240214_221205.png]]
+* Music: Spagnoletta (original)
+[[./Handouts.org_20240222_214757.png]]
+* Music: Spagnoletta (With modification for two guitars)
+[[./Handouts.org_20240219_223830.png]]
+* Music from Carcassi book: Andantino
+[[./Handouts.org_20240214_222412.png]]
+* Music from Carcassi book: Waltz
+[[./Handouts.org_20240214_222357.png]]
