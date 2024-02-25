@@ -22,7 +22,10 @@
 - Chromatic scales (maybe skip)
 * Arpeggios with p, m, i
 - Test Carcassi arpeggios 1-5, may leave it to future lesson if too too difficult
+
+ #+ATTR_HTML::width 1200
 [[./week1.org_20240217_223152.png]]
+
 * Noad exercise 12-13
 [[./Handouts.org_20240222_205247.png]]
 [[./Handouts.org_20240222_205303.png]]
