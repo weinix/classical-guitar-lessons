@@ -20,7 +20,7 @@
 - Spider walk at fret 5 with two fingers
 - Spider walk at fret 5 with four fingers
 - Chromatic scales (maybe skip)
-* Arpeggios with the thumb and two fingers
+* Arpeggios with p, m, i
 - Test Carcassi arpeggios 1-5, may leave it to future lesson if too too difficult
 [[./week1.org_20240217_223152.png]]
 * Noad exercise 12-13
@@ -37,7 +37,7 @@
 [[./Handouts.org_20240214_221205.png]]
 * Music: Spagnoletta (original)
 [[./Handouts.org_20240222_214757.png]]
-* Music: Spagnoletta (With modification for two guitars)
+* Music: Spagnoletta (for two guitars)
 [[./Handouts.org_20240219_223830.png]]
 * Music from Carcassi book: Andantino
 [[./Handouts.org_20240214_222412.png]]
