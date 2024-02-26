@@ -1,0 +1,47 @@
+#+title: Week 2 exercises
+#+OPTIONS: toc:nil
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1520 reveal_height:720
+#+OPTIONS: toc:nil
+#+OPTIONS: reveal_klipsify_src:t
+#+OPTIONS: org-reveal-show-code:nil
+
+
+#+REVEAL_MIN_SCALE: 0.2
+#+REVEAL_MAX_SCALE: 2.0
+#+REVEAL_PLUGINS: (notes search zoom)
+#+REVEAL_MARGIN: 0.01
+#+REVEAL_TRANS: cube
+#+REVEAL_THEME: white
+#+REVEAL_HLEVEL: 2
+
+
+* Requirements
+- Good posture
+- Use a metronome
+- Focus clean and clear sound, only increase metronome speed when:
+  - you are making clean and clear sound,
+  - you feel you hands and fingers are under control
+  - You only want to build muscle memory of when you are making good sound
+
+* Daily practice routine
+** Note:
+- For now spend enough time, minimum 50% of practice time,  on warm up and scale
+- if 25 min is not enough to go through all exercise, it's ok to spread everything other than warm up & scale to different days
+** Warm up
+  - Spider walk at 5th fret 5 with two fingers
+  - Spider walk at 5th fret four fingers
+  - Chromatic scale
+** C scale
+[[./week1.org_20240217_222718.png]]
+** Noad book
+- open string exercise 5 - 11
+- arpeggio exercises 12-15 ( only this exercise use free stroke)
+** Carcassi Arpeggios with the thumb and two fingers (optional)
+[[./week2.org_20240225_200147.png]]
+** Music: Andantino, A part only, B part is optional
+- Read music note by note, measure by measure
+- No need to practice the whole part A in one day, start with first two measures in day one, then first 4 measures day 2, etc...
+[[./Handouts.org_20240214_222412.png]]
